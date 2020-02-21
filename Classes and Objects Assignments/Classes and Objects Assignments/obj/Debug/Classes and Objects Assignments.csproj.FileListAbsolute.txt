@@ -1,0 +1,6 @@
+C:\Users\10304701\Desktop\vs\Classes and Objects Assignments\Classes and Objects Assignments\bin\Debug\Classes and Objects Assignments.exe.config
+C:\Users\10304701\Desktop\vs\Classes and Objects Assignments\Classes and Objects Assignments\bin\Debug\Classes and Objects Assignments.exe
+C:\Users\10304701\Desktop\vs\Classes and Objects Assignments\Classes and Objects Assignments\bin\Debug\Classes and Objects Assignments.pdb
+C:\Users\10304701\Desktop\vs\Classes and Objects Assignments\Classes and Objects Assignments\obj\Debug\Classes and Objects Assignments.csprojResolveAssemblyReference.cache
+C:\Users\10304701\Desktop\vs\Classes and Objects Assignments\Classes and Objects Assignments\obj\Debug\Classes and Objects Assignments.exe
+C:\Users\10304701\Desktop\vs\Classes and Objects Assignments\Classes and Objects Assignments\obj\Debug\Classes and Objects Assignments.pdb
