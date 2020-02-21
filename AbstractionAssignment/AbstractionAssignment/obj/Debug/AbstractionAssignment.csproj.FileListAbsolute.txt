@@ -1,0 +1,9 @@
+C:\Users\10304701\Desktop\vs\AbstractionAssignment\AbstractionAssignment\bin\Debug\AbstractionAssignment.exe.config
+C:\Users\10304701\Desktop\vs\AbstractionAssignment\AbstractionAssignment\obj\Debug\AbstractionAssignment.csprojResolveAssemblyReference.cache
+C:\Users\10304701\Desktop\vs\AbstractionAssignment\AbstractionAssignment\bin\Debug\AbstractionAssignment.exe
+C:\Users\10304701\Desktop\vs\AbstractionAssignment\AbstractionAssignment\bin\Debug\AbstractionAssignment.pdb
+C:\Users\10304701\Desktop\vs\AbstractionAssignment\AbstractionAssignment\obj\Debug\AbstractionAssignment.exe
+C:\Users\10304701\Desktop\vs\AbstractionAssignment\AbstractionAssignment\obj\Debug\AbstractionAssignment.pdb
+C:\Users\10304701\Desktop\ASSI SOL\AbstractionAssignment\AbstractionAssignment\bin\Debug\AbstractionAssignment.exe.config
+C:\Users\10304701\Desktop\ASSI SOL\AbstractionAssignment\AbstractionAssignment\obj\Debug\AbstractionAssignment.exe
+C:\Users\10304701\Desktop\ASSI SOL\AbstractionAssignment\AbstractionAssignment\obj\Debug\AbstractionAssignment.pdb
