@@ -1,0 +1,6 @@
+C:\Users\10304701\Desktop\vs\EmployeeAssign\EmployeeAssign\bin\Debug\EmployeeAssign.exe.config
+C:\Users\10304701\Desktop\vs\EmployeeAssign\EmployeeAssign\bin\Debug\EmployeeAssign.exe
+C:\Users\10304701\Desktop\vs\EmployeeAssign\EmployeeAssign\bin\Debug\EmployeeAssign.pdb
+C:\Users\10304701\Desktop\vs\EmployeeAssign\EmployeeAssign\obj\Debug\EmployeeAssign.csprojResolveAssemblyReference.cache
+C:\Users\10304701\Desktop\vs\EmployeeAssign\EmployeeAssign\obj\Debug\EmployeeAssign.exe
+C:\Users\10304701\Desktop\vs\EmployeeAssign\EmployeeAssign\obj\Debug\EmployeeAssign.pdb
